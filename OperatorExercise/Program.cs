@@ -26,5 +26,9 @@
         {
             return Math.PI * Math.Pow( radius, 2 );
         }
+        // Thought Exercise
+        // i is incremented before the operation while j is incremented afterwards.
+        // 4*4 = 16
+        // Result is i = 4; j = 5; and k = 16;
     }
 }
